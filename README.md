@@ -1,4 +1,4 @@
-### Hi, I'm Labib!
+### Hi, I'm Labib! 😄
 
 I'm a Software Engineer, recently graduated in **Math & CS from the University of Toronto**. 
 - 💻 Work experience:
