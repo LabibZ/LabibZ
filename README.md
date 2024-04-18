@@ -1,6 +1,6 @@
 ### Hi, I'm Labib! 😄
 
-I'm a Software Engineer, recently graduated in **Math & CS from the University of Toronto**. 
+I'm a Software Engineer, recently graduated in **Math & CS** from the **University of Toronto**. 
 - 💻 Work experience:
   - Software Engineer Intern @ Magna
   - Data Analyst Intern @ Bank of Canada
