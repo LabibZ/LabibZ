@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Labib!
+
+I'm a Software Engineer, recently graduated in **Math & CS from the University of Toronto**. 
+- 💻 Work experience:
+  - Software Engineer Intern @ Magna
+  - Data Analyst Intern @ Bank of Canada
+- 💬 Talk to me about: Photography, Muay Thai, Games and Cats
+- 📫 Find me on: [LinkedIn](https://linkedin.com/in/labibmz) | [Email](mailto:labibmzaman@gmail.com)
+
+**I'm currently seeking a Software Engineering role!** Feel free to reach out to me about any opportunities! 
 
 <!--
 **LabibZ/LabibZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
