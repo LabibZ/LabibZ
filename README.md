@@ -2,6 +2,7 @@
 
 I'm a Software Engineer, recently graduated in **Math & CS** from the **University of Toronto**. 
 - 💻 Work experience:
+  - Software Engineer @ Johnson Controls
   - Software Engineer Intern @ Magna
   - Data Analyst Intern @ Bank of Canada
 - 💬 Talk to me about: Photography, Muay Thai, Games and Cats
